@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "251704032776",
+    "project_id": "react-app-study-cdcbd",
+    "storage_bucket": "react-app-study-cdcbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251704032776:android:549cbd9f4a742f21ac9bbd",
+        "android_client_info": {
+          "package_name": "com.pokeappelaniin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251704032776-mn3ot2s5p4t2lu48jbsk5s6nne2e44qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pokeappelaniin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "251704032776-pbpph4h7lbq8kf0ia123ve3f3f1n90da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQvAQLVKl_WJaoGXEXlKQIwfcpk61pMos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251704032776-pbpph4h7lbq8kf0ia123ve3f3f1n90da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
